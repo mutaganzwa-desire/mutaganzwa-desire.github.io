@@ -48,6 +48,12 @@
   }
   
   @media screen and (max-width: 600px) {
+    .onlyform{
+      max-width: 100%;
+    }
+    .message, .textarea{
+      max-width: 100%;
+    }
     #contact,
     footer {
       height: 40vh;
